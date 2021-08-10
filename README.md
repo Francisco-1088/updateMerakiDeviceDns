@@ -2,6 +2,7 @@
 Update DNS config for Meraki devices from a list of serials in a CSV file
 
 Clone github repo and install the python libraries.
+
 -git clone https://github.com/Francisco-1088/updateMerakiDeviceDns.git
 -pip install -r requirements.txt
 
