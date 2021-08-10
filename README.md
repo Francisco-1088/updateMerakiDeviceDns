@@ -4,6 +4,7 @@ Update DNS config for Meraki devices from a list of serials in a CSV file
 Clone github repo and install the python libraries.
 
 -git clone https://github.com/Francisco-1088/updateMerakiDeviceDns.git
+
 -pip install -r requirements.txt
 
 Go to your Meraki organization, go to Organization - Inventory and download the list of devices with the Export to CSV button, and replace the serials.csv file in the folder with this.
