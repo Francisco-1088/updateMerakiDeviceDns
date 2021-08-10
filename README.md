@@ -13,6 +13,6 @@ If your organization is in Co-term, use as is. If your organization is in PDL, u
 
 Remove any devices you don't wish to update DNS to from the serials.csv file.
 
-Update line 28 with your desired DNS to be updated. (If only one DNS is to be used, it should be written as ['8.8.8.8'].
+Update line 28 with your desired DNS to be updated. (If only one DNS is to be used, it should be written as ['8.8.8.8']).
 
 Run with python main.py
